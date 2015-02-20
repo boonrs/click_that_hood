@@ -1,0 +1,9 @@
+{ 
+  "locationName": "Boulder",
+  "stateName": "CO",
+
+  "authorTwitter": "boonrs",
+
+  "dataUrl": "https://bouldercolorado.gov/open-data/boulder-neighborhoods/",
+  "dataTitle": "City of Boulder GIS Neighborhood Associations"
+}
